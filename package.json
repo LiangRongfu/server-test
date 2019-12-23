@@ -15,6 +15,6 @@
     "koa2-cors": "^2.0.6"
   },
   "dependencies": {
-    "koa-bodyparser": "^4.2.1",
+    "koa-bodyparser": "^4.2.1"
   }
 }

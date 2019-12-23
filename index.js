@@ -18,4 +18,4 @@ router.get('/api/info', async ctx => {
   }
 });
 app.use(router.routes()).use(router.allowedMethods());
-app.listen(8090);
+app.listen(80);

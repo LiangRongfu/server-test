@@ -5,9 +5,9 @@
   "level":"普通",
   "phone": "13546378849",
   "nextLevel": [
-    {"text": "3年期期缴保费", "value": 60000, id:'sdf'},
-    {"text": "5年期期缴保费", "value": 320000, id:'sdgs'},
-    {"text": "10年期期缴保费", "value": 480000, id:'rgd'}
+    {"text": "3年期期缴保费", "value": 60000, "id":"sdf"},
+    {"text": "5年期期缴保费", "value": 320000, "id":"sdgs"},
+    {"text": "10年期期缴保费", "value": 480000, "id":"rgd"}
   ]
 },{
   "name":"李四",
@@ -16,8 +16,8 @@
   "level":"普通",
   "phone": "13546377839",
   "nextLevel": [
-    {"text": "3年期期缴保费", "value": 70000, id: 'sdfs'},
-    {"text": "5年期期缴保费", "value": 420000, id: 'dsfr'},
-    {"text": "10年期期缴保费", "value": 580000, id: 'jshj'}
+    {"text": "3年期期缴保费", "value": 70000, "id": "sdfs"},
+    {"text": "5年期期缴保费", "value": 420000, "id": "dsfr"},
+    {"text": "10年期期缴保费", "value": 580000, "id": "jshj"}
   ]
 }]
